@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Frappe Drive VERSION\n"
 "Report-Msgid-Bugs-To: developers@frappe.io\n"
-"POT-Creation-Date: 2026-02-27 16:19+0000\n"
-"PO-Revision-Date: 2026-02-27 16:19+0000\n"
+"POT-Creation-Date: 2026-03-06 16:19+0000\n"
+"PO-Revision-Date: 2026-03-06 16:19+0000\n"
 "Last-Translator: developers@frappe.io\n"
 "Language-Team: developers@frappe.io\n"
 "MIME-Version: 1.0\n"
@@ -628,7 +628,7 @@ msgstr ""
 
 #. Label of the _modified (Datetime) field in DocType 'Drive File'
 #: drive/drive/doctype/drive_file/drive_file.json
-#: frontend/src/components/DriveToolBar.vue:251
+#: frontend/src/components/DriveToolBar.vue:233
 #: frontend/src/components/InfoPopup.vue:41
 msgid "Modified"
 msgstr ""
@@ -638,7 +638,7 @@ msgstr ""
 msgid "Move"
 msgstr ""
 
-#: frontend/src/components/DriveToolBar.vue:243
+#: frontend/src/components/DriveToolBar.vue:225
 #: frontend/src/components/ListView.vue:131
 msgid "Name"
 msgstr ""
@@ -712,7 +712,7 @@ msgstr ""
 msgid "Others"
 msgstr ""
 
-#: frontend/src/components/DriveToolBar.vue:247
+#: frontend/src/components/DriveToolBar.vue:229
 #: frontend/src/components/InfoPopup.vue:19
 #: frontend/src/components/ListView.vue:150
 msgid "Owner"
@@ -899,13 +899,13 @@ msgstr ""
 msgid "Single Click"
 msgstr ""
 
-#: frontend/src/components/DriveToolBar.vue:255
+#: frontend/src/components/DriveToolBar.vue:237
 #: frontend/src/components/InfoPopup.vue:33
 #: frontend/src/components/ListView.vue:186
 msgid "Size"
 msgstr ""
 
-#: frontend/src/components/DriveToolBar.vue:271
+#: frontend/src/components/DriveToolBar.vue:253
 msgid "Smart"
 msgstr ""
 
@@ -1034,7 +1034,7 @@ msgstr ""
 #. Label of the type (Select) field in DocType 'Drive Notification'
 #: drive/drive/doctype/drive_file_update/drive_file_update.json
 #: drive/drive/doctype/drive_notification/drive_notification.json
-#: frontend/src/components/DriveToolBar.vue:259
+#: frontend/src/components/DriveToolBar.vue:241
 #: frontend/src/components/InfoPopup.vue:27
 msgid "Type"
 msgstr ""
