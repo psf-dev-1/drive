@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: frappe\n"
 "Report-Msgid-Bugs-To: developers@frappe.io\n"
 "POT-Creation-Date: 2026-02-13 16:23+0000\n"
-"PO-Revision-Date: 2026-02-18 19:43\n"
+"PO-Revision-Date: 2026-03-29 14:57\n"
 "Last-Translator: developers@frappe.io\n"
 "Language-Team: Persian\n"
 "MIME-Version: 1.0\n"
@@ -230,7 +230,7 @@ msgstr "نوع سند"
 
 #: frontend/src/components/Sidebar.vue:148
 msgid "Documentation"
-msgstr "مستندات"
+msgstr ""
 
 #: frontend/src/components/GenericPage.vue:324
 #: frontend/src/components/Navbar.vue:214
